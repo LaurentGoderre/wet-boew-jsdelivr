@@ -1,0 +1,14 @@
+{
+  "name": "GCWeb",
+  "homepage": "https://github.com/wet-boew/themes-cdn",
+  "version": "4.0.16-gcweb",
+  "_release": "4.0.16-gcweb",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.16-gcweb",
+    "commit": "68e627cd929bb891fd0b75f77d57cf23505a36da"
+  },
+  "_source": "https://github.com/wet-boew/themes-cdn.git",
+  "_target": "4.0.16-gcweb",
+  "_originalSource": "wet-boew/themes-cdn"
+}

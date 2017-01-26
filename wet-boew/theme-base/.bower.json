@@ -1,0 +1,14 @@
+{
+  "name": "theme-base",
+  "homepage": "https://github.com/wet-boew/themes-cdn",
+  "version": "4.0.16-theme-base",
+  "_release": "4.0.16-theme-base",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.16-theme-base",
+    "commit": "b7a357cbbcebe84047d53b6df050183d798d5e77"
+  },
+  "_source": "https://github.com/wet-boew/themes-cdn.git",
+  "_target": "4.0.16-theme-base",
+  "_originalSource": "wet-boew/themes-cdn"
+}

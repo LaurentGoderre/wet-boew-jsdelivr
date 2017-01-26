@@ -1,0 +1,14 @@
+{
+  "name": "theme-ogpl",
+  "homepage": "https://github.com/wet-boew/themes-cdn",
+  "version": "4.0.16-theme-ogpl",
+  "_release": "4.0.16-theme-ogpl",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.16-theme-ogpl",
+    "commit": "a9de63806d95dbc692a59efc77ac54f72381f47d"
+  },
+  "_source": "https://github.com/wet-boew/themes-cdn.git",
+  "_target": "4.0.16-theme-ogpl",
+  "_originalSource": "wet-boew/themes-cdn"
+}

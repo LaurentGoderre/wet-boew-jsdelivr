@@ -1,0 +1,14 @@
+{
+  "name": "theme-gc-intranet",
+  "homepage": "https://github.com/wet-boew/themes-cdn",
+  "version": "4.0.16-theme-gc-intranet",
+  "_release": "4.0.16-theme-gc-intranet",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.16-theme-gc-intranet",
+    "commit": "091edd2337798b7fcf00c7012fe8cd67d930330c"
+  },
+  "_source": "https://github.com/wet-boew/themes-cdn.git",
+  "_target": "4.0.16-theme-gc-intranet",
+  "_originalSource": "wet-boew/themes-cdn"
+}

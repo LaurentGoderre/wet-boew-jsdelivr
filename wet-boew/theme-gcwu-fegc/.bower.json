@@ -1,0 +1,14 @@
+{
+  "name": "theme-gcwu-fegc",
+  "homepage": "https://github.com/wet-boew/themes-cdn",
+  "version": "4.0.16-theme-gcwu-fegc",
+  "_release": "4.0.16-theme-gcwu-fegc",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.16-theme-gcwu-fegc",
+    "commit": "0d8ea5970d4840c3f9ed383d22534b94a2e41825"
+  },
+  "_source": "https://github.com/wet-boew/themes-cdn.git",
+  "_target": "4.0.16-theme-gcwu-fegc",
+  "_originalSource": "wet-boew/themes-cdn"
+}
