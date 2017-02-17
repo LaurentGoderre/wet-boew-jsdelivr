@@ -1,14 +1,14 @@
 {
   "name": "theme-wet-boew",
   "homepage": "https://github.com/wet-boew/themes-cdn",
-  "version": "4.0.19+2-theme-wet-boew",
-  "_release": "4.0.19+2-theme-wet-boew",
+  "version": "4.0.20-theme-wet-boew",
+  "_release": "4.0.20-theme-wet-boew",
   "_resolution": {
     "type": "version",
-    "tag": "v4.0.19+2-theme-wet-boew",
-    "commit": "7c710c63a1252be9626a2cde4bd3111794a7d719"
+    "tag": "v4.0.20-theme-wet-boew",
+    "commit": "a83f344bbc8faece56ed17efc1218cf01e6b5ee0"
   },
   "_source": "https://github.com/wet-boew/themes-cdn.git",
-  "_target": "4.0.19+2-theme-wet-boew",
+  "_target": "4.0.20-theme-wet-boew",
   "_originalSource": "wet-boew/themes-cdn"
 }
