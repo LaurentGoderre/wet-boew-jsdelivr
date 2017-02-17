@@ -1,14 +1,14 @@
 {
-  "name": "theme-ogpl",
+  "name": "GCWeb",
   "homepage": "https://github.com/wet-boew/themes-cdn",
-  "version": "4.0.17+1-theme-ogpl",
-  "_release": "4.0.17+1-theme-ogpl",
+  "version": "4.0.18-gcweb",
+  "_release": "4.0.18-gcweb",
   "_resolution": {
     "type": "version",
-    "tag": "v4.0.17+1-theme-ogpl",
-    "commit": "2ab6b8d86b495d821e16d6d220d0bbef04311483"
+    "tag": "v4.0.18-gcweb",
+    "commit": "64170f593dfc507ff243e5f997c16e4fdfc33b80"
   },
   "_source": "https://github.com/wet-boew/themes-cdn.git",
-  "_target": "4.0.17+1-gcweb",
+  "_target": "4.0.18-gcweb",
   "_originalSource": "wet-boew/themes-cdn"
 }

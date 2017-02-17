@@ -1,6 +1,6 @@
 {
   "name": "wet-boew-cdn",
-  "version": "4.0.17+1",
+  "version": "4.0.18",
   "description": "",
   "license": "MIT",
   "private": true,
@@ -11,12 +11,12 @@
     "tests"
   ],
   "dependencies": {
-    "wet-boew": "wet-boew/wet-boew-cdn#4.0.17+1",
-	"GCWeb": "wet-boew/themes-cdn#4.0.17+1-gcweb",
-	"theme-base": "wet-boew/themes-cdn#4.0.17+1-theme-base",
-	"theme-gc-intranet": "wet-boew/themes-cdn#4.0.17+1-theme-gc-intranet",
-	"theme-gcwu-fegc": "wet-boew/themes-cdn#4.0.17+1-theme-gcwu-fegc",
-	"theme-ogpl": "wet-boew/themes-cdn#4.0.17+1-theme-ogpl",
-	"theme-wet-boew": "wet-boew/themes-cdn#4.0.17+1-theme-wet-boew"
+    "wet-boew": "wet-boew/wet-boew-cdn#4.0.18",
+	"GCWeb": "wet-boew/themes-cdn#4.0.18-gcweb",
+	"theme-base": "wet-boew/themes-cdn#4.0.18-theme-base",
+	"theme-gc-intranet": "wet-boew/themes-cdn#4.0.18-theme-gc-intranet",
+	"theme-gcwu-fegc": "wet-boew/themes-cdn#4.0.18-theme-gcwu-fegc",
+	"theme-ogpl": "wet-boew/themes-cdn#4.0.18-theme-ogpl",
+	"theme-wet-boew": "wet-boew/themes-cdn#4.0.18-theme-wet-boew"
   }
 }
