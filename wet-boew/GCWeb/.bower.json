@@ -1,14 +1,14 @@
 {
   "name": "GCWeb",
   "homepage": "https://github.com/wet-boew/themes-cdn",
-  "version": "4.0.21-gcweb",
-  "_release": "4.0.21-gcweb",
+  "version": "4.0.22-gcweb",
+  "_release": "4.0.22-gcweb",
   "_resolution": {
     "type": "version",
-    "tag": "v4.0.21-gcweb",
-    "commit": "0b07becbace2b456aca6646daf86204299ea751b"
+    "tag": "v4.0.22-gcweb",
+    "commit": "1e678478dfaf8206227c3ab789e304826ce2acdb"
   },
   "_source": "https://github.com/wet-boew/themes-cdn.git",
-  "_target": "4.0.21-gcweb",
+  "_target": "4.0.22-gcweb",
   "_originalSource": "wet-boew/themes-cdn"
 }

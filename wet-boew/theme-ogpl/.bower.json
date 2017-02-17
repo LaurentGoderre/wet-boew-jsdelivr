@@ -1,14 +1,14 @@
 {
   "name": "theme-ogpl",
   "homepage": "https://github.com/wet-boew/themes-cdn",
-  "version": "4.0.21-theme-ogpl",
-  "_release": "4.0.21-theme-ogpl",
+  "version": "4.0.22-theme-ogpl",
+  "_release": "4.0.22-theme-ogpl",
   "_resolution": {
     "type": "version",
-    "tag": "v4.0.21-theme-ogpl",
-    "commit": "052771ab43b8a5ec7dfbbed92d1171dc36141e1a"
+    "tag": "v4.0.22-theme-ogpl",
+    "commit": "ca4d30d38e1301d22efeac8c885a389cf413f60e"
   },
   "_source": "https://github.com/wet-boew/themes-cdn.git",
-  "_target": "4.0.21-theme-ogpl",
+  "_target": "4.0.22-theme-ogpl",
   "_originalSource": "wet-boew/themes-cdn"
 }
