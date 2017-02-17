@@ -2,18 +2,17 @@ var fs = require('fs'),
 	pkg = require('./bower.json'),
 	version = pkg.version,
 	deps = Object.keys(pkg.dependencies),
+	errors = [],
 	hashValidate = function(hash) {
 		var versionMatch = hash.match(/cdn#([^-]*)/);
 		if (versionMatch[1] !== version) {
-			console.error("Error: Version mismatch in bower.json for " + dep + ". Expecting: " + version + ". Found: " + versionMatch[1]);
-			process.exit(1);
+			errors.push("Error: Version mismatch in bower.json for " + dep + ". Expecting: " + version + ". Found: " + versionMatch[1]);
 		}
 	},
 	fileValidate = function(file, data) {
 		var versionMatch = data.match(/\* v?([^ ]*) \-/);
 		if (versionMatch[1] !== version) {
-			console.error("Error: Version mismatch in file  " + file + ". Expecting: " + version + ". Found: " + versionMatch[1]);
-			process.exit(1);
+			errors.push("Error: Version mismatch in file  " + file + ". Expecting: " + version + ". Found: " + versionMatch[1]);
 		}
 	},
 	dep, depHash, file;
@@ -43,6 +42,12 @@ for(var d = 0; d < deps.length; d++){
 }
 
 process.on('exit', function(code){
+	if (errors.length > 0) {
+		for (var e = 0; e < errors.length; e++){
+			console.error(errors[e]);
+		}
+		process.exit(1);
+	}
 	if (code === 0) {
 		console.log("Success!!");
 	}
