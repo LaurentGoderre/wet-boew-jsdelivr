@@ -1,14 +1,14 @@
 {
   "name": "theme-gcwu-fegc",
   "homepage": "https://github.com/wet-boew/themes-cdn",
-  "version": "4.0.22-theme-gcwu-fegc",
-  "_release": "4.0.22-theme-gcwu-fegc",
+  "version": "4.0.23-theme-gcwu-fegc",
+  "_release": "4.0.23-theme-gcwu-fegc",
   "_resolution": {
     "type": "version",
-    "tag": "v4.0.22-theme-gcwu-fegc",
-    "commit": "6c9a60bcd068028ae87ff67bbad43efae333b886"
+    "tag": "v4.0.23-theme-gcwu-fegc",
+    "commit": "4ad7173d3642ed863b577cd119cd0a5a7f2938b1"
   },
   "_source": "https://github.com/wet-boew/themes-cdn.git",
-  "_target": "4.0.22-theme-gcwu-fegc",
+  "_target": "4.0.23-theme-gcwu-fegc",
   "_originalSource": "wet-boew/themes-cdn"
 }

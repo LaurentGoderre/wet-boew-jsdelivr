@@ -1,14 +1,14 @@
 {
   "name": "theme-base",
   "homepage": "https://github.com/wet-boew/themes-cdn",
-  "version": "4.0.22-theme-base",
-  "_release": "4.0.22-theme-base",
+  "version": "4.0.23-theme-base",
+  "_release": "4.0.23-theme-base",
   "_resolution": {
     "type": "version",
-    "tag": "v4.0.22-theme-base",
-    "commit": "cac6bca60f09111eb6eb8191048e599c9dd45f7b"
+    "tag": "v4.0.23-theme-base",
+    "commit": "c4d375fa89ee0ba7009fa44953b9a85c4348449b"
   },
   "_source": "https://github.com/wet-boew/themes-cdn.git",
-  "_target": "4.0.22-theme-base",
+  "_target": "4.0.23-theme-base",
   "_originalSource": "wet-boew/themes-cdn"
 }
