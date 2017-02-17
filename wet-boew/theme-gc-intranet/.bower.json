@@ -1,14 +1,14 @@
 {
   "name": "theme-gc-intranet",
   "homepage": "https://github.com/wet-boew/themes-cdn",
-  "version": "4.0.20-theme-gc-intranet",
-  "_release": "4.0.20-theme-gc-intranet",
+  "version": "4.0.21-theme-gc-intranet",
+  "_release": "4.0.21-theme-gc-intranet",
   "_resolution": {
     "type": "version",
-    "tag": "v4.0.20-theme-gc-intranet",
-    "commit": "8908d7551e1932fa72a461899c8042d67ee28431"
+    "tag": "v4.0.21-theme-gc-intranet",
+    "commit": "8f12d89c155dc88ba328a5fb808f6c4ef2e06b8d"
   },
   "_source": "https://github.com/wet-boew/themes-cdn.git",
-  "_target": "4.0.20-theme-gc-intranet",
+  "_target": "4.0.21-theme-gc-intranet",
   "_originalSource": "wet-boew/themes-cdn"
 }
